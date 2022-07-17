@@ -32,6 +32,10 @@
 </html>
 ```
 
+```js
+navigator.clipboard.writeText(d);
+```
+
 ---
 
 ```
